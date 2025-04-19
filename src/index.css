@@ -2,12 +2,9 @@
 
 @import "tailwindcss";
 
-:root {
-  font-family: Bricolage;
-  line-height: 1.5;
-  font-weight: 400;
-  background-color: black
-};
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 body {
   margin: 0;
