@@ -29,11 +29,11 @@ export default function PersonalWebsite() {
               <ul className="space-y-4">
                 <li className="flex items-center">
                   <span className="text-gray-400 mr-2">•</span>
-                  <span>X - <a href="https://x.com/Shanktwt" className="text-white underline">@Shanktwt</a></span>
+                  <span>X - <a href="https://x.com/shashankpoola" className="text-white underline">@Shanktwt</a></span>
                 </li>
                 <li className="flex items-center">
                   <span className="text-gray-400 mr-2">•</span>
-                  <span>Instagram - <a href="https://instagram.com/mr___shashank__" className="text-white underline">@mr___shashank__</a></span>
+                  <span>Instagram - <a href="https://instagram.com/shashankpoola" className="text-white underline">@mr___shashank__</a></span>
                 </li>
                 <li className="flex items-center">
                   <span className="text-gray-400 mr-2">•</span>
